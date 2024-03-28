@@ -155,11 +155,6 @@ For h=3, l=10, ImageID = 8675, t=10
 For h=10, l=3, ImageID = 881, t=10
 
 
-**Repository Link:**
-[Link to the project repository on Git]
 
 **Contributors:**
-- [Your Name]
-- [Any other contributors]
-
-Feel free to explore the repository for detailed documentation and code implementation.
+- Prathit Nilay Barot, Sai Smaran Sandri
